@@ -1,6 +1,6 @@
 # Dementia Risk Prediction Model
 
-This project is a submission for the **[MODE-LX] Optimization Sprint**. The objective is to build a binary classification model to predict the risk of dementia using **non-medical features only**.
+The main objective of this project is build a binary classification model to predict the risk of dementia using **non-medical features only**.
 
 The model is designed to estimate dementia risk (0-100%) based on self-reported information that a person would know about themselves, such as demographics, lifestyle factors, and simple known health history.
 
